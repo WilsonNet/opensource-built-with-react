@@ -1,5 +1,5 @@
 # opensource-built-with-react
-List of open source applications build with react
+List of open source applications built with React.js
 
 https://github.com/withspectrum/spectrum
 
