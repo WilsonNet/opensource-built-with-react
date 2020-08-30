@@ -11,6 +11,8 @@ https://github.com/CompuIves/codesandbox-client
 
 https://github.com/Automattic/wp-calypso
 
+https://github.com/eggheadio/egghead-next - New Version of Egghead, built in Next.js
+
 https://github.com/zeit/next-site
 
 https://github.com/fbsamples/f8app
