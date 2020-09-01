@@ -4,6 +4,12 @@ List of open source applications built with React.js
 
 https://github.com/CompuIves/codesandbox-client
 
+https://github.com/freeCodeCamp/freeCodeCamp/
+
+https://github.com/rsimmons/voracious
+
+https://github.com/Khan/perseus/tree/master/src
+
 https://github.com/withspectrum/spectrum
 
 https://github.com/opencollective/opencollective-frontend
@@ -29,12 +35,6 @@ https://github.com/devhubapp/devhub
 https://gitlab.com/gnaar/powder
 
 https://github.com/mattermost/mattermost-webapp
-
-https://github.com/freeCodeCamp/freeCodeCamp/
-
-https://github.com/rsimmons/voracious
-
-https://github.com/Khan/perseus/tree/master/src
 
 https://github.com/oldboyxx/jira_clone
 
