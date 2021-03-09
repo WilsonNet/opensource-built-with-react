@@ -2,7 +2,7 @@
 List of open source applications built with React.js
 
 
-https://github.com/CompuIves/codesandbox-client
+https://github.com/CompuIves/codesandbox-client - Client for the CodeSandbox website.
 
 https://github.com/freeCodeCamp/freeCodeCamp/
 
