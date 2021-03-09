@@ -6,7 +6,7 @@ https://github.com/CompuIves/codesandbox-client
 
 https://github.com/freeCodeCamp/freeCodeCamp/
 
-https://github.com/rsimmons/voracious
+https://github.com/rsimmons/voracious - A video player for language learning that allows to easily create Anki Flashcards.
 
 https://github.com/Khan/perseus/tree/master/src
 
